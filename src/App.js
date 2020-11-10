@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-      <img src={sasuke1} className="App-logo" alt="сууукааа" />
+      <img src={sasuke1} className="App-logo" alt="-" />
         <p>
         Sasuke returns to Konoha!!!
         </p>
